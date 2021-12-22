@@ -6,7 +6,7 @@ CREDITS: @cleverprogrammer
 
 ## Final Product
 
-![](docs/Capture.PNG) ![](docs/Capture1.PNG)
+![](docs/Screenshot.PNG) ![](docs/gif.gif)
 
 ## Getting Started
 
